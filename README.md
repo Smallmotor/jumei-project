@@ -33,14 +33,13 @@ vue2 + vuex + vue-router + webpack + ES6/7  + sass + flex + svg + vue-resource
 * 红包 
 * 上传头像 
 ## 部分截图
+<img src="https://raw.githubusercontent.com/Smallmotor/image/master/1.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/2.png" width="300" height="600"/>
 
-    <img src="https://raw.githubusercontent.com/Smallmotor/image/master/1.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/2.png" width="300" height="600"/>
-
-    <img src="https://raw.githubusercontent.com/Smallmotor/image/master/3.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/4.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/Smallmotor/image/master/3.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/4.png" width="300" height="600"/>
     
-    <img src="https://raw.githubusercontent.com/Smallmotor/image/master/5.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/6.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/Smallmotor/image/master/5.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/6.png" width="300" height="600"/>
     
-    <img src="https://raw.githubusercontent.com/Smallmotor/image/master/7.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/8.png" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/Smallmotor/image/master/7.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/8.png" width="300" height="600"/>
     
 
 

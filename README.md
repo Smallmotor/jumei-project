@@ -34,8 +34,8 @@ vue2 + vuex + vue-router + webpack + ES6/7  + sass + flex + svg + vue-resource
 * 上传头像 
 ## 部分截图
 <figure class="half" >
-    <img width="300" height="600" src="https://raw.githubusercontent.com/Smallmotor/image/master/1.png"/>
-    <img width="300" height="600" src="https://raw.githubusercontent.com/Smallmotor/image/master/2.png"/>
+    <img width="300" height="600" display="block" float="left" src="https://raw.githubusercontent.com/Smallmotor/image/master/1.png"/>
+    <img width="300" height="600" display="block" float="left" src="https://raw.githubusercontent.com/Smallmotor/image/master/2.png"/>
 </figure>
 <figure class="half" >
     <img width="300" height="600" src="https://raw.githubusercontent.com/Smallmotor/image/master/3.png"/>

@@ -41,6 +41,25 @@ vue2 + vuex + vue-router + webpack + ES6/7  + sass + flex + svg + vue-resource
     
 <img src="https://raw.githubusercontent.com/Smallmotor/image/master/7.png" width="300" height="600"/><img src="https://raw.githubusercontent.com/Smallmotor/image/master/8.png" width="300" height="600"/>
     
+## 项目布局
+```
+├── build                                       // webpack配置文件
+├── config                                      // 项目打包路径
+├── jumei                                         // 上线项目文件，放在服务器即可正常访问
+├── screenshots                                 // 项目截图
+├── src                                         // 源码目录
+|   ├── components                              // 组件
+|   ├── config                                  // 基本配置
+|   ├── router
+│   └── router.js  
+|   ├── store                                   // vuex的状态管理// 路由配置
+|   └──
+│   ├── App.vue                                 // 页面入口文件
+│   ├── main.js                                 // 程序入口文件，加载各种公共组件
+├── favicon.ico                                 // 图标
+├── index.html                                  // 入口html文件
+```
+
 
 
 

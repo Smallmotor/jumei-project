@@ -34,20 +34,20 @@ vue2 + vuex + vue-router + webpack + ES6/7  + sass + flex + svg + vue-resource
 * 上传头像 
 ## 部分截图
 <figure class="half" >
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/1.png"/>
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/2.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/1.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/2.png"/>
 </figure>
 <figure class="half" >
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/3.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/3.png"/>
     <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/4.png"/>
 </figure>
 <figure class="half" >
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/5.png"/>
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/6.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/5.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/6.png"/>
 </figure>
 <figure class="half" >
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/7.png"/>
-    <img style="width:200px" src="https://raw.githubusercontent.com/Smallmotor/image/master/8.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/7.png"/>
+    <img width="365" height="619" src="https://raw.githubusercontent.com/Smallmotor/image/master/8.png"/>
 </figure>
 
 
